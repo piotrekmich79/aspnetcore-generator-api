@@ -1,6 +1,6 @@
 Access this repository: http://bit.ly/aspnetcoredocker
 
-## Branch to course mapping
+## Branch to course mapping --
 
 This repository contains source code for two courses:
 - **Docker Images and Containers for ASP.NET Core**
